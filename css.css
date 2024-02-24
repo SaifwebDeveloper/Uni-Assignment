@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(243, 244, 245);
+}
+h1{
+  text-align: center;
+ color: rgb(2, 2, 14);
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+  color: rgb(2, 6, 14);
+  
+}
+p{
+  text-align: center;
+
+}
+#link{
+  text-align: center;
+}
+#saif{
+  text-align: center;
+  color: black;
+
+}
